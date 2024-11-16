@@ -1,1 +1,18 @@
+US Consumer Price Index and Inflation (CPI)
+This dataset provides a historical view of the Consumer Price Index for All Urban Consumers (CPI-U) in the United States, which is a key measure of inflation. The data allows for tracking changes in purchasing power and inflation trends over time.
+
+The link provided below can be used to access dataset:
+
 https://datahub.io/core/cpi-us
+
+How to Download the CPI Dataset:
+Under the "Data Previews" section, select your preferred file format (CSV, JSON) to download the dataset directly.
+
+Dataset Details:
+Frequency: Monthly data, providing granular insights into inflation trends.
+
+Variables:
+Date: The time period (month and year) of the data.
+CPI Value: The Consumer Price Index value, available in both seasonally adjusted and unadjusted formats.
+Source: The dataset originates from the United States Bureau of Labor Statistics (BLS), ensuring credibility and reliability.
+Period Covered: Includes historical data spanning multiple decades, enabling comprehensive analysis of long-term inflation trends.
