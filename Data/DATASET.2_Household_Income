@@ -1,1 +1,18 @@
+Income Limits for Each Fifth and Top 5 Percent of All Households:
+This dataset provides a comprehensive view of income distribution across various percentiles in the United States, offering valuable insights into income inequality and economic disparities.
+
+The link provided below can be used to access dataset:
+
 https://datahub.io/core/household-income-us-historical
+
+How to Download the Household Income Dataset:
+Under the "Data Previews" section, select your preferred file format (CSV, JSON) to download the dataset directly.
+
+Dataset Details:
+Frequency: Annual data, providing a year-by-year snapshot of income distribution.
+
+Variables:
+Year: The year corresponding to the income data.
+Percentile Income Values: Income levels for various percentiles (e.g., median income, top 5%, bottom 20%).
+Source: This dataset is compiled from reliable sources such as the U.S. Census Bureau and related economic reports.
+Period Covered: Historical data covering several decades, enabling longitudinal studies of income trends.
